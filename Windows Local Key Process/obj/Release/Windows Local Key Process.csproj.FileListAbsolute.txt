@@ -1,0 +1,10 @@
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\Windows Local Key Process\Windows Local Key Process\bin\Release\Windows Local Key Process.exe
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\Windows Local Key Process\Windows Local Key Process\bin\Release\Windows Local Key Process.pdb
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\Windows Local Key Process\Windows Local Key Process\obj\Release\ResolveAssemblyReference.cache
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\Windows Local Key Process\Windows Local Key Process\obj\Release\Windows Local Key Process.exe
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\Windows Local Key Process\Windows Local Key Process\obj\Release\Windows Local Key Process.pdb
+C:\Users\migs\Documents\Visual Studio 2008\Projects\Windows Local Key Process\Windows Local Key Process\obj\Release\Windows Local Key Process.exe
+C:\Users\migs\Documents\Visual Studio 2008\Projects\Windows Local Key Process\Windows Local Key Process\obj\Release\Windows Local Key Process.pdb
+C:\Users\migs\Documents\Visual Studio 2008\Projects\Windows Local Key Process\Windows Local Key Process\bin\Release\Windows Local Key Process.exe
+C:\Users\migs\Documents\Visual Studio 2008\Projects\Windows Local Key Process\Windows Local Key Process\bin\Release\Windows Local Key Process.pdb
+C:\Users\migs\Documents\Visual Studio 2008\Projects\Windows Local Key Process\Windows Local Key Process\obj\Release\ResolveAssemblyReference.cache
